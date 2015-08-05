@@ -1,4 +1,4 @@
-# Windows to go - 带着走的Windows系统
+# Windows To Go - 带着走的Windows系统
 windows to go已经不是什么新鲜玩意了，从windows 8.1 企业版开始就已经支持windows to go了，可是它是什么呢？windows to go可以将你的windows系统装进移动硬盘里，想象一下即插即用的windows系统还不占电脑本身的硬盘，尤其是像mac这种视硬盘资源如黄金的平台。
 
 纸豪君这两天就尝试安装了windows to go，然后愉快的在自己的macbook pro上玩起了看门狗（哇嘎嘎
